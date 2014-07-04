@@ -1,4 +1,4 @@
 fish
 ====
 
-Issue tracking for SNOMNH Fish data in the VertNet portal (portal.vertnet.org).
+Issue tracking for OMNH Fish data in the VertNet portal (portal.vertnet.org).
