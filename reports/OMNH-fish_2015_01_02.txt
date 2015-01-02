@@ -1,0 +1,56 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 238 download events in this period)
+Total number of records downloaded: 45 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 45
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-10 ; Times: 2
+	Date: 2014-12-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Cibola" stateprovince:"New Mexico"" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:punctatus genus:ictalurus" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "county:"McKinley" stateprovince:"New Mexico"" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"New Mexico"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 20
+Total number of records retrieved from searches: 572
+Number of download events that retrieved data from the resource: 8
+Total number of records downloaded: 45594
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 20
+Total number of records retrieved from searches: 572
+Number of download events that retrieved data from the resource: 8
+Total number of records downloaded: 45594
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
