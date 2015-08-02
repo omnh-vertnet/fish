@@ -1,0 +1,91 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 301
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-15 ; Times: 3
+	Date: 2015-07-16 ; Times: 3
+	Date: 2015-07-17 ; Times: 9
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 3
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "62346" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "51472" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "Seward Nebraska" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:buchanani genus:Notropis" ; Times: 2
+	Query: "stateprovince:"Oklahoma" specificepithet:camura genus:Cyprinella" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "73644" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "62178" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "62176" ; Times: 1
+	Query: "specificepithet:fulgida genus:Meda" ; Times: 3
+	Query: "50293" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:cragini genus:Etheostoma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1084 download events in this period)
+Total number of records downloaded: 22503 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11248
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Arkansas" ; Times: 2
+	Query: "Cardinalis cardinalis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 80
+Total number of records retrieved from searches: 1368
+Number of download events that retrieved data from the resource: 11
+Total number of records downloaded: 24332
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 86
+Total number of records retrieved from searches: 1379
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 69926
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
