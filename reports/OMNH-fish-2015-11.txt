@@ -1,0 +1,65 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 98
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-26 ; Times: 3
+	Date: 2015-11-18 ; Times: 3
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-06 ; Times: 6
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-17 ; Times: 3
+	Date: 2015-11-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "74990" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "28868" ; Times: 1
+	Query: "28884" ; Times: 1
+	Query: "locality:Valliant county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "28850" ; Times: 1
+	Query: "fish locality:rock creek stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "33462" ; Times: 1
+	Query: "66553" ; Times: 1
+	Query: "65941" ; Times: 1
+	Query: "28860" ; Times: 1
+	Query: "33588" ; Times: 1
+	Query: "28862" ; Times: 1
+	Query: "marsh arizona" ; Times: 2
+	Query: "etheostoma stigmaeum arkansas" ; Times: 1
+	Query: "80723" ; Times: 1
+	Query: "80724" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "26280" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 751 download events in this period)
+Total number of records downloaded: 939
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "etheostoma spectabile" ; Times: 1
+
+
+End of report.
