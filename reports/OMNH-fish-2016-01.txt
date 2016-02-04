@@ -1,0 +1,62 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 284
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "33490" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "Lake Eucha" ; Times: 2
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "42565" ; Times: 1
+	Query: "marion missouri" ; Times: 1
+	Query: "Catostomus year &gt;= 1978 year &lt;= 1978 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "OMNH 27520" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 507 download events in this period)
+Total number of records downloaded: 3596
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-03 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 2
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+
+
+End of report.
