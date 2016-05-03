@@ -1,0 +1,83 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 61
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 6
+	Date: 2016-04-26 ; Times: 3
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 6
+	Query: "38875" ; Times: 2
+	Query: "26214" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "38882" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "SAM 35651" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "county:&#34;Leflore&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "35651" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1312 download events in this period)
+Total number of records downloaded: 13368
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Panama ; Times: 26
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-19 ; Times: 4
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-23 ; Times: 1
+	Date: 2016-04-22 ; Times: 16
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "ATHERINOPSIDAE" ; Times: 2
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "GERREIDAE" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+
+
+End of report.
