@@ -1,0 +1,93 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 21668
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 169
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 137
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-13 ; Times: 6
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 17
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 6
+	Query: "49990" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 84
+	Query: "73277" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "tishomingo refuge stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "77997" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 8
+	Query: "26378" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "77593" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 4
+	Query: "29961" ; Times: 2
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 36
+	Query: "county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "73821" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "49731" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "61180" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1052 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "chihuahua (fish)" ; Times: 1
+
+
+End of report.
