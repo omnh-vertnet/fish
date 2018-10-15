@@ -1,0 +1,69 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 246
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 2
+	Date: 2018-01-03 ; Times: 4
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-31 ; Times: 1
+	Date: 2018-01-17 ; Times: 6
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "86159" ; Times: 1
+	Query: "noturus placidus" ; Times: 3
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "OMNH 45003" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 2
+	Query: "77136" ; Times: 1
+	Query: "29233" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "76908" ; Times: 1
+	Query: "84111" ; Times: 1
+	Query: "Kirk Strawn" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 2
+	Query: "36607" ; Times: 3
+	Query: "51835" ; Times: 1
+	Query: "R. Kirk Strawn" ; Times: 1
+	Query: "61419" ; Times: 1
+	Query: "42679" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1398 download events in this period)
+Total number of records downloaded: 327
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aplodinotus grunniens" ; Times: 1
+
+
+End of report.
