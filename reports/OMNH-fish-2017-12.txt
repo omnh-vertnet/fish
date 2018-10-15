@@ -1,0 +1,57 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 176
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Russia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-08 ; Times: 3
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "44483" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "77705" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "specificepithet:hyostoma genus:Macrhybopsis month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "77075" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 674 download events in this period)
+Total number of records downloaded: 226
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pylodictis olivaris" ; Times: 1
+
+
+End of report.
