@@ -1,0 +1,71 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 45
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-02 ; Times: 7
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "OMNH 34399" ; Times: 2
+	Query: "OMNH 34497" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "genus:Hybognathus locality:Salt Fork Arkansas River stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "79588" ; Times: 1
+	Query: "genus:Hybognathus locality:Salt Fork Arkansas River county:&#34;Woods&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "80294" ; Times: 1
+	Query: "64210" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "genus:&#34;lythurus&#34;" ; Times: 1
+	Query: "Bill frog" ; Times: 1
+	Query: "genus:Fundulus locality:Salt Fork Arkansas River county:&#34;Woods&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1892 download events in this period)
+Total number of records downloaded: 457
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "buren" ; Times: 1
+
+
+End of report.
