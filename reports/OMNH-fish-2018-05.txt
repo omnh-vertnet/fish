@@ -1,0 +1,87 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 222
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 23
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 5
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-21 ; Times: 5
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 4
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 6
+	Query: "OMNH 39348" ; Times: 2
+	Query: "62245" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "OMNH 45364" ; Times: 2
+	Query: "71073" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "OMNH 6111" ; Times: 1
+	Query: "OMNH 39347" ; Times: 1
+	Query: "OMNH 39346" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "specificepithet:bovinus genus:Cyprinodon" ; Times: 3
+	Query: "family:Percidae county:&#34;Pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "omnh 6111" ; Times: 2
+	Query: "40447" ; Times: 2
+	Query: "typhlichthys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1178 download events in this period)
+Total number of records downloaded: 151399
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+
+
+End of report.
