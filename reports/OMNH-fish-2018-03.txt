@@ -1,0 +1,130 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 265
+Number of records retrieved in searches: 11540
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 254
+	Country: Unknown ; Times: 8
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 20
+	Date: 2018-03-28 ; Times: 7
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-23 ; Times: 17
+	Date: 2018-03-20 ; Times: 12
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-02 ; Times: 27
+	Date: 2018-03-03 ; Times: 5
+	Date: 2018-03-05 ; Times: 13
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 62
+	Date: 2018-03-27 ; Times: 57
+	Date: 2018-03-22 ; Times: 7
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-21 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Notropis specificepithet:sabinae" ; Times: 2
+	Query: "noturus placidus" ; Times: 8
+	Query: "genus:Lepisosteus specificepithet:oculatus" ; Times: 2
+	Query: "genus:Dionda specificepithet:nigrotaeniata" ; Times: 5
+	Query: "genus:Chrosomus specificepithet:oreas" ; Times: 6
+	Query: "genus:Cyprinella specificepithet:lepida" ; Times: 8
+	Query: "26356" ; Times: 1
+	Query: "genus:Meda specificepithet:fulgida" ; Times: 5
+	Query: "genus:Luxilus specificepithet:pilsbryi" ; Times: 2
+	Query: "26861" ; Times: 1
+	Query: "genus:Notropis specificepithet:jemezanus" ; Times: 6
+	Query: "Baptizing" ; Times: 1
+	Query: "72742" ; Times: 1
+	Query: "genus:Erimystax specificepithet:insignis" ; Times: 5
+	Query: "genus:Hybognathus specificepithet:hayi" ; Times: 2
+	Query: "50204" ; Times: 1
+	Query: "genus:Luxilus specificepithet:cardinalis" ; Times: 5
+	Query: "genus:Exoglossum specificepithet:maxillingua" ; Times: 2
+	Query: "genus:Notropis specificepithet:heterolepis" ; Times: 2
+	Query: "genus:Hybognathus specificepithet:argyritis" ; Times: 5
+	Query: "genus:Nocomis specificepithet:asper" ; Times: 5
+	Query: "44414" ; Times: 1
+	Query: "genus:Notropis specificepithet:ariommus" ; Times: 6
+	Query: "genus:Notropis specificepithet:suttkusi" ; Times: 6
+	Query: "genus:Erimystax specificepithet:dissimilis" ; Times: 2
+	Query: "genus:Cottus specificepithet:baileyi" ; Times: 9
+	Query: "genus:Clarias specificepithet:batrachus" ; Times: 5
+	Query: "genus:Notropis specificepithet:greenei" ; Times: 6
+	Query: "genus:Cyprinella specificepithet:proserpina" ; Times: 6
+	Query: "genus:Gila specificepithet:robusta" ; Times: 5
+	Query: "35919" ; Times: 1
+	Query: "Clarias batrachus 1" ; Times: 1
+	Query: "genus:Notropis specificepithet:nubilus" ; Times: 2
+	Query: "genus:Hybognathus specificepithet:placitus" ; Times: 2
+	Query: "genus:Cottus specificepithet:immaculatus" ; Times: 9
+	Query: "genus:Platygobio specificepithet:gracilis" ; Times: 5
+	Query: "OMNH 1460" ; Times: 1
+	Query: "62969" ; Times: 1
+	Query: "genus:Chrosomus specificepithet:eos" ; Times: 6
+	Query: "genus:Dionda specificepithet:argentosa" ; Times: 5
+	Query: "genus:Luxilus specificepithet:zonatus" ; Times: 2
+	Query: "47432`" ; Times: 1
+	Query: "genus:Notropis specificepithet:ortenburgeri" ; Times: 6
+	Query: "genus:Notropis specificepithet:atrocaudalis" ; Times: 6
+	Query: "genus:Notropis  specificepithet:buccula " ; Times: 3
+	Query: "genus:Notropis specificepithet:amabilis" ; Times: 2
+	Query: "genus:Campostoma specificepithet:spadiceum" ; Times: 5
+	Query: "genus:Notropis specificepithet:girardi" ; Times: 6
+	Query: "genus:Notropis specificepithet:buccula " ; Times: 2
+	Query: "genus:Hiodon specificepithet:alosoides" ; Times: 2
+	Query: "genus:Notropis specificepithet:oxyrhynchus" ; Times: 6
+	Query: "OMNH 35918" ; Times: 1
+	Query: "OMNH 35919" ; Times: 1
+	Query: "genus:Typhlichthys specificepithet:subterraneus" ; Times: 5
+	Query: "OMNH 3039" ; Times: 1
+	Query: "genus:Campostoma specificepithet:ornatum" ; Times: 5
+	Query: "genus:Pimephales specificepithet:tenellus" ; Times: 5
+	Query: "genus:Notropis specificepithet:potteri" ; Times: 2
+	Query: "52261" ; Times: 1
+	Query: "53539" ; Times: 1
+	Query: "Oreochromis aureus 1" ; Times: 1
+	Query: "genus:Notropis specificepithet:dorsalis" ; Times: 2
+	Query: "genus:Notropis specificepithet:buccatus" ; Times: 2
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 2
+	Query: "genus:Moapa specificepithet:coriacea" ; Times: 5
+	Query: "genus:Luxilus specificepithet:cerasinus" ; Times: 2
+	Query: "genus:Dionda specificepithet:episcopa" ; Times: 5
+	Query: "genus:Macrhybopsis specificepithet:australis" ; Times: 5
+	Query: "genus:Lythrurus specificepithet:ardens" ; Times: 2
+	Query: "genus:Hybognathus specificepithet:hankinsoni" ; Times: 2
+	Query: "genus:Dionda specificepithet:serena" ; Times: 5
+	Query: "genus:Lythurus" ; Times: 4
+	Query: "65223" ; Times: 1
+	Query: "OMNH 3839" ; Times: 1
+	Query: "genus:Notropis specificepithet:anogenus" ; Times: 6
+	Query: "genus:Chrosomus specificepithet:erythrogaster" ; Times: 2
+	Query: "specificepithet:miurus genus:noturus stateprovince:&#34;ohio&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1284 download events in this period)
+Total number of records downloaded: 118
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "FISH stateprovince:&#34;michigan&#34;" ; Times: 2
+
+
+End of report.
