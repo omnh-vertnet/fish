@@ -1,0 +1,75 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 49
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Denmark ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 6
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-06 ; Times: 5
+	Date: 2018-08-01 ; Times: 5
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 6
+	Query: "82879" ; Times: 1
+	Query: "49831" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "66407 o" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "60030" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "69084" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "69162" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "specificepithet:evides genus:Percina stateprovince:&#34;Tennessee&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "70707" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "60257" ; Times: 2
+	Query: "82383" ; Times: 1
+	Query: "61905" ; Times: 2
+	Query: "omnh 40167" ; Times: 1
+	Query: "76624" ; Times: 1
+	Query: "genus:Lythurus" ; Times: 3
+	Query: "43649" ; Times: 1
+	Query: "33004" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1416 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:evides genus:Percina stateprovince:&#34;Tennessee&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+
+
+End of report.
