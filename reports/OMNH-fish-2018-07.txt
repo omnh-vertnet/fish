@@ -1,0 +1,84 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 130
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 7
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-04 ; Times: 2
+	Date: 2018-07-23 ; Times: 3
+	Date: 2018-07-20 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-03 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "53355" ; Times: 1
+	Query: "noturus placidus" ; Times: 4
+	Query: "omnh 45911" ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "65253" ; Times: 1
+	Query: "ditaenia" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "83545" ; Times: 1
+	Query: "73161" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "omnh 45003" ; Times: 1
+	Query: "229410" ; Times: 2
+	Query: "32613" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "26817" ; Times: 2
+	Query: "26423" ; Times: 1
+	Query: "omnh 43848" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "74358" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "68499" ; Times: 1
+	Query: "49649-1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 977 download events in this period)
+Total number of records downloaded: 145759
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Comal county" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 3
+
+
+End of report.
