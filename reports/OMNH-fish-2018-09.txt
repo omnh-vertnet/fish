@@ -1,0 +1,64 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 4
+	Query: "33106" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "OMNH 46722" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "genus:Lythurus" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "43935" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 846 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bullfrog" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+
+
+End of report.
