@@ -1,0 +1,88 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 504
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 6
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-29 ; Times: 8
+	Date: 2018-06-28 ; Times: 4
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-19 ; Times: 5
+	Date: 2018-06-15 ; Times: 5
+	Date: 2018-06-26 ; Times: 7
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sam Noble Museum University of Oklahoma Fish" ; Times: 1
+	Query: "noturus placidus" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "red partridge" ; Times: 4
+	Query: "Sam Noble Museum University of Oklahoma Luxilus" ; Times: 1
+	Query: "Catenatus oklahoma" ; Times: 3
+	Query: "Omnh 53009" ; Times: 1
+	Query: "TX 79409" ; Times: 1
+	Query: "Catenatus washington oklahoma" ; Times: 2
+	Query: "39043" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "maxwell colorado" ; Times: 4
+	Query: "49503" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "fieldnumber:2027" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "omnh 46152" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "Ictalurus sp." ; Times: 1
+	Query: "Sam Noble Museum University of Oklahoma Fish Luxilus" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "OMNH 34545" ; Times: 2
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1169 download events in this period)
+Total number of records downloaded: 4573
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "elephant" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+
+
+End of report.
