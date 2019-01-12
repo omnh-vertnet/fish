@@ -1,0 +1,63 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 113
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-06 ; Times: 3
+	Date: 2018-12-22 ; Times: 1
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "45407" ; Times: 1
+	Query: "39747" ; Times: 1
+	Query: "46137" ; Times: 2
+	Query: "79993" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "specificepithet:australis genus:Macrhybopsis" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "35646" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "OMNH 46722" ; Times: 2
+	Query: "Syngnathus louisianae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 809 download events in this period)
+Total number of records downloaded: 792
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:australis genus:Macrhybopsis" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 1
+
+
+End of report.
