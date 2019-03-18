@@ -1,0 +1,74 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 83
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 17
+	Country: Belgium ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-14 ; Times: 6
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "79677" ; Times: 1
+	Query: "44998" ; Times: 1
+	Query: "85469" ; Times: 1
+	Query: "fieldnumber:4028" ; Times: 1
+	Query: "OMNH 3530" ; Times: 3
+	Query: "OMNH 47213" ; Times: 1
+	Query: "OMNH 25417" ; Times: 1
+	Query: "OMNH 38621" ; Times: 1
+	Query: "32777" ; Times: 2
+	Query: "fieldnumber:1567" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "cyprinodon elegans" ; Times: 1
+	Query: "ichthology" ; Times: 1
+	Query: "OMNH 31489" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "73020" ; Times: 1
+	Query: "31887" ; Times: 2
+	Query: "OMNH 47239" ; Times: 1
+	Query: "OMNH 47229" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "7488 OMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1227 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "poeciliopsis" ; Times: 1
+
+
+End of report.
