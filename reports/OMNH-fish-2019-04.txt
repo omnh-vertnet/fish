@@ -1,0 +1,83 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 59
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-30 ; Times: 5
+	Date: 2019-04-26 ; Times: 8
+	Date: 2019-04-02 ; Times: 5
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "75298" ; Times: 1
+	Query: "noturus placidus" ; Times: 2
+	Query: "84999" ; Times: 1
+	Query: "47737" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "OMNH 31929" ; Times: 4
+	Query: "50360" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "35899" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "35131" ; Times: 1
+	Query: "OMNH 31930" ; Times: 2
+	Query: "Maxwell Colorado" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "49924" ; Times: 3
+	Query: "80729" ; Times: 3
+	Query: "burt cheyenne" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "33026" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1263 download events in this period)
+Total number of records downloaded: 32
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "red wolf" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "Sander vitreus" ; Times: 1
+
+
+End of report.
