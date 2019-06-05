@@ -1,0 +1,80 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 91
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: Saudi Arabia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-31 ; Times: 5
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-05 ; Times: 2
+	Date: 2019-05-02 ; Times: 4
+	Date: 2019-05-01 ; Times: 9
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 6
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 3
+	Date: 2019-05-29 ; Times: 3
+	Date: 2019-05-28 ; Times: 6
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-13 ; Times: 4
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "OU 32504" ; Times: 2
+	Query: "noturus placidus" ; Times: 10
+	Query: "OU 6819" ; Times: 2
+	Query: "33255" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "omnh 38247" ; Times: 2
+	Query: "omnh 38246" ; Times: 2
+	Query: "34176" ; Times: 1
+	Query: "specificepithet:argyritis genus:Hybognathus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "OU 15492" ; Times: 2
+	Query: "OU 9981" ; Times: 2
+	Query: "47124" ; Times: 26
+	Query: "33485" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "83059" ; Times: 1
+	Query: "catalognumber:65838 OR 65711 institutioncode:OMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 940 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
