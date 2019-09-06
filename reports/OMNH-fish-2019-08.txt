@@ -1,0 +1,62 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 117
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: United Kingdom ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-16 ; Times: 3
+	Date: 2019-08-15 ; Times: 4
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 3
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-19 ; Times: 5
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 3
+	Query: "69631" ; Times: 1
+	Query: "29919" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "Ambloplites constellatus" ; Times: 1
+	Query: "NOTROPIS OZARCANUS" ; Times: 1
+	Query: "82270" ; Times: 1
+	Query: "etheostoma cragini" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "28574" ; Times: 1
+	Query: "genus:Lythurus" ; Times: 1
+	Query: "67129" ; Times: 1
+	Query: "28575" ; Times: 3
+	Query: "39641" ; Times: 1
+	Query: "OMNH 2407" ; Times: 1
+	Query: "genus:Aphredoderus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "69462" ; Times: 1
+	Query: "71277" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1034 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
