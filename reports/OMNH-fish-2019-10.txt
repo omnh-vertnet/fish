@@ -1,0 +1,100 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 295
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 7
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-24 ; Times: 4
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 4
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-10 ; Times: 5
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "omnh 41307" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "69978" ; Times: 1
+	Query: "omnh 37614" ; Times: 1
+	Query: "omnh 37613" ; Times: 1
+	Query: "71480" ; Times: 1
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "63118" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "vitreus Sander" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "67214" ; Times: 3
+	Query: "68252" ; Times: 1
+	Query: "valley river 1349" ; Times: 1
+	Query: "71340" ; Times: 1
+	Query: "66686" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "64055" ; Times: 1
+	Query: "52049" ; Times: 1
+	Query: "omnh 36713" ; Times: 1
+	Query: "50567" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "70530" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "omnh 50000" ; Times: 2
+	Query: "32783" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "omnh 8648" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1308 download events in this period)
+Total number of records downloaded: 11
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenopharyngodon idella" ; Times: 1
+
+
+End of report.
