@@ -1,0 +1,113 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 174
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 49
+	Country: Australia ; Times: 4
+	Country: United Kingdom ; Times: 5
+	Country: Switzerland ; Times: 2
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 4
+	Date: 2020-03-18 ; Times: 7
+	Date: 2020-03-26 ; Times: 4
+	Date: 2020-03-20 ; Times: 5
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-31 ; Times: 9
+	Date: 2020-03-25 ; Times: 6
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-22 ; Times: 5
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-19 ; Times: 3
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-04 ; Times: 5
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-03 ; Times: 7
+	Date: 2020-03-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "66066" ; Times: 1
+	Query: "(76777)" ; Times: 2
+	Query: "83012" ; Times: 1
+	Query: "Macrhybopsis tetranema" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "(84514)" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "76847" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "SAM R 40413" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "&#34;January-Stansbury&#34;" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "specificepithet:punctatus county:&#34;Stephens&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "76294" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "71221" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "(49096)" ; Times: 2
+	Query: "OMNH 27933" ; Times: 2
+	Query: "52627" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "Macrhybopsis australis" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "OMNH 34104" ; Times: 1
+	Query: "77071" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "60756" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "(53280)" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "(49083)" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "83646" ; Times: 2
+	Query: "52022" ; Times: 1
+	Query: "67214" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "38031" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 853 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
