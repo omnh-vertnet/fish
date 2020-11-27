@@ -1,0 +1,97 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 55
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Brazil ; Times: 2
+	Country: Ireland ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-07 ; Times: 6
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-10 ; Times: 4
+	Date: 2020-05-06 ; Times: 8
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-15 ; Times: 9
+	Date: 2020-05-01 ; Times: 2
+	Date: 2020-05-17 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "noturus placidus" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "OMNH 36026" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "48344" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "38592" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "64968" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "poeciliopsis occidentalis" ; Times: 1
+	Query: "44752" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1106 download events in this period)
+Total number of records downloaded: 72
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Catostomus" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+
+
+End of report.
