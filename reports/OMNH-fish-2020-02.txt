@@ -1,0 +1,68 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 28
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-20 ; Times: 6
+	Date: 2020-02-27 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "36879" ; Times: 2
+	Query: "41501" ; Times: 2
+	Query: "36877" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "39343" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "81138" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "82104" ; Times: 2
+	Query: "28572" ; Times: 1
+	Query: "OMNH 34083" ; Times: 3
+	Query: "51609" ; Times: 1
+	Query: "OMNH 34545" ; Times: 1
+	Query: "85104" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1023 download events in this period)
+Total number of records downloaded: 2793
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia affinis" ; Times: 1
+
+
+End of report.
