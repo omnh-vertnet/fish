@@ -1,0 +1,71 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 706
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-22 ; Times: 8
+	Date: 2020-01-06 ; Times: 10
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-24 ; Times: 8
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Etheostoma county:&#34;Pope&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "41501" ; Times: 1
+	Query: "chrysogaster Agosia" ; Times: 1
+	Query: "insignis Catostomus" ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "OMNH 47410" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "O.72269" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "specificepithet:stigmaeum genus:Etheostoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "OMNH 45806" ; Times: 2
+	Query: "OMNH 45804" ; Times: 1
+	Query: "catalognumber:45909.0 institutioncode:OMNH" ; Times: 2
+	Query: "mykiss Oncorhynchus" ; Times: 2
+	Query: "85834" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "ucla 2858" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "Menidia menidia" ; Times: 2
+	Query: "OMNH 47397" ; Times: 1
+	Query: "fulgida Meda" ; Times: 1
+	Query: "OMNH 45843" ; Times: 1
+	Query: "62875" ; Times: 1
+	Query: "62878" ; Times: 1
+	Query: "OMNH 45810" ; Times: 1
+	Query: "OMNH 45811" ; Times: 1
+	Query: "OMNH 45812" ; Times: 1
+	Query: "OMNH 45815" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1584 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
