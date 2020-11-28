@@ -1,0 +1,66 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 26
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 16
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 7
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-05 ; Times: 5
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-29 ; Times: 3
+	Date: 2020-10-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "43733" ; Times: 1
+	Query: "OMNH 36220" ; Times: 3
+	Query: "33841" ; Times: 2
+	Query: "Franklin 1888" ; Times: 1
+	Query: "66015" ; Times: 1
+	Query: "41813" ; Times: 2
+	Query: "62511" ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "42953" ; Times: 1
+	Query: "OMNH 33466" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "OMNH 15347" ; Times: 2
+	Query: "33842" ; Times: 1
+	Query: "81916" ; Times: 1
+	Query: "44356" ; Times: 2
+	Query: "43096" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "47132" ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "42514" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1521 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
