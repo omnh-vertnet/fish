@@ -1,0 +1,98 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 123
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Ireland ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 36
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-20 ; Times: 3
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-29 ; Times: 22
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 26
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "OMNH 4025" ; Times: 3
+	Query: "noturus placidus" ; Times: 1
+	Query: "78725" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "catalognumber:43819.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:42945.0 institutioncode:OMNH" ; Times: 2
+	Query: "OMNH 35923" ; Times: 2
+	Query: "OMNH 27948" ; Times: 1
+	Query: "catalognumber:42736.0 institutioncode:OMNH" ; Times: 2
+	Query: "catalognumber:41875.0 institutioncode:OMNH" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "47000" ; Times: 2
+	Query: "OMNH 27947" ; Times: 3
+	Query: "catalognumber:42942.0 institutioncode:OMNH" ; Times: 2
+	Query: "85227" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "catalognumber:43444.0 institutioncode:OMNH" ; Times: 2
+	Query: "42543" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "28482" ; Times: 1
+	Query: "78438" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "catalognumber:42939.0 institutioncode:OMNH" ; Times: 2
+	Query: "70414" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "cyprindae" ; Times: 1
+	Query: "OMNH 35918" ; Times: 1
+	Query: "OMNH 35919" ; Times: 5
+	Query: "OMNH 1592" ; Times: 1
+	Query: "OMNH 1460" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "catalognumber:42676.0 institutioncode:OMNH" ; Times: 2
+	Query: "39186" ; Times: 1
+	Query: "81530" ; Times: 1
+	Query: "catalognumber:43944.0 institutioncode:OMNH" ; Times: 2
+	Query: "OMNH 2328" ; Times: 1
+	Query: "OMNH 42054" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "OMNH 3839" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "catalognumber:42946.0 institutioncode:OMNH" ; Times: 2
+	Query: "Cycleptus elongatus" ; Times: 1
+	Query: "catalognumber:43943.0 institutioncode:OMNH" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 940 download events in this period)
+Total number of records downloaded: 23
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+
+
+End of report.
