@@ -1,0 +1,68 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 54
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 24
+	Country: Ireland ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 19
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-18 ; Times: 2
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "76541" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "27933 omnh" ; Times: 1
+	Query: "32708" ; Times: 1
+	Query: "OMNH 45991" ; Times: 2
+	Query: "OMNH 45961" ; Times: 2
+	Query: "OMNH 45993" ; Times: 2
+	Query: "OMNH 45990" ; Times: 2
+	Query: "63240" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "nigger creek" ; Times: 2
+	Query: "50030" ; Times: 1
+	Query: "OMNH 44824" ; Times: 2
+	Query: "OMNH 45992" ; Times: 2
+	Query: "OMNH 45924" ; Times: 2
+	Query: "OMNH 45925" ; Times: 2
+	Query: "OMNH 45926" ; Times: 2
+	Query: "75208" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 976 download events in this period)
+Total number of records downloaded: 2820
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia" ; Times: 1
+
+
+End of report.
