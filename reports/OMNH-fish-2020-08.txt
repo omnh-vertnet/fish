@@ -1,0 +1,99 @@
+Report for Institution Code OMNH, Resource fish
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 348
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 20
+	Country: Israel ; Times: 2
+	Country: Ireland ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 5
+	Country: Peru ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-11 ; Times: 5
+	Date: 2020-08-19 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 4
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-23 ; Times: 3
+	Date: 2020-08-20 ; Times: 5
+	Date: 2020-08-21 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "70345" ; Times: 2
+	Query: "SAM R.69660" ; Times: 1
+	Query: "cyprinodon rubrofluviatilis (texas)" ; Times: 1
+	Query: "OMNH 65724" ; Times: 1
+	Query: "Fundulus zebrinus (pecos) AND (texas)" ; Times: 1
+	Query: "OMNH 39340" ; Times: 2
+	Query: "OMNH 9428" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "Fundulus zebrinus (REd )" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "Fundulus zebrinus (Red River)" ; Times: 3
+	Query: "32206" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "52769" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "80729" ; Times: 5
+	Query: "41574" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "45388" ; Times: 1
+	Query: "OMNH 31497" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "SAM 598" ; Times: 1
+	Query: "Duchess" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "71606" ; Times: 1
+	Query: "71370" ; Times: 2
+	Query: "69660" ; Times: 1
+	Query: "71376" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 756 download events in this period)
+Total number of records downloaded: 279
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyprinodon rubrofluviatilis" ; Times: 1
+
+
+End of report.
